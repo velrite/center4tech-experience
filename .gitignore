@@ -1,0 +1,12 @@
+# Never commit private evidence or personal documents
+PRIVATE*/
+HOLD*/
+*private*/
+*.docx
+*.pdf
+*.zip
+*offer*letter*
+*contract*
+*nysc*
+*siwes*
+.env
