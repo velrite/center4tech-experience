@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| Organization-owned | UNKNOWN. I do not know whether it was a company demonstration piece. |
+| Organization-owned | Not yet confirmed with Center4Tech whether it was a company demonstration piece. |
 | Student-built | Nothing. |
 | My contribution | The design of the model: the road, the paper-flower decoration idea, and the servo road-blocking mechanism. Team members built it with me. |
 | Public reconstruction | The diagram is generic. |

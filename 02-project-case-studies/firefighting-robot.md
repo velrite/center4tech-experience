@@ -15,7 +15,7 @@ These may be versions of one body of work, not four projects. What differed betw
 
 | | |
 |---|---|
-| Organization-owned | UNKNOWN. I treat these as program work. |
+| Organization-owned | Not yet confirmed with Center4Tech. I treat these as program work. |
 | Student-built | Nothing. |
 | My contribution | In the four-person build, the logic behind the hose and how it holds water. The exact scope is not recalled. |
 | Public reconstruction | The diagram is generic. |

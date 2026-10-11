@@ -26,7 +26,7 @@ The arm worked before it was transported to a demonstration. A driver handled it
 
 | Fault | What I did |
 |---|---|
-| Broken potentiometer | Repaired it. I believe this was a soldering repair but I am not certain (INFERENCE for the method). |
+| Broken potentiometer | Resoldered it. |
 | Faulty wire | Replaced it and reconnected it to the Arduino. |
 | Plastic part too weak | Replaced it with firmer foam board. |
 

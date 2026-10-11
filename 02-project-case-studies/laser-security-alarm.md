@@ -1,12 +1,12 @@
 # Laser security alarm
 
-**Phase:** after the camp. **My role:** one of a team of three; I helped set up the optics. **Evidence:** none confirmed. A photograph may belong to this project but I have not confirmed it. Everything here is RECOLLECTION.
+**Phase:** after the camp. **My role:** one of a team of three; I helped set up the optics. **Evidence:** one photograph I took during the build (private, withheld pending permission). Everything here is RECOLLECTION except what the photograph shows.
 
 ## Ownership
 
 | | |
 |---|---|
-| Organization-owned | UNKNOWN. |
+| Organization-owned | Not yet confirmed with Center4Tech. |
 | Student-built | Nothing. |
 | My contribution | With the team, the optical setup: reflecting the laser through several mirror pieces onto the sensor. |
 | Public reconstruction | The diagram is generic. |
@@ -32,3 +32,7 @@ flowchart LR
 ## Not recalled
 
 Whether it worked reliably, the board model, the power supply, and the sensor threshold.
+
+## Evidence
+
+One photograph, taken by me while building. It shows a red light spot on a wooden board with cardboard pieces. It does not show the complete system.
