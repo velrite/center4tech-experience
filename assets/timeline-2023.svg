@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" font-family="Arial, Helvetica, sans-serif">
+  <rect width="900" height="280" fill="#ffffff"/>
+  <text x="50" y="32" font-size="18" font-weight="bold" fill="#111">2023 at a glance</text>
+  <text x="50" y="54" font-size="12" fill="#444">Industrial attachment: 29 May to 17 September 2023</text>
+  <rect x="50" y="80" width="404" height="36" fill="#cfe3f7" stroke="#555"/>
+  <rect x="454" y="80" width="230" height="36" fill="#f7d9a8" stroke="#555"/>
+  <rect x="684" y="80" width="166" height="36" fill="#d6ecd0" stroke="#555"/>
+  <text x="252" y="103" font-size="13" text-anchor="middle" fill="#111">Training</text>
+  <text x="569" y="103" font-size="13" text-anchor="middle" fill="#111">Summer camp</text>
+  <text x="767" y="103" font-size="13" text-anchor="middle" fill="#111">After the camp</text>
+  <text x="50" y="136" font-size="12" fill="#111">29 May</text>
+  <text x="454" y="136" font-size="12" fill="#111">24 Jul</text>
+  <text x="684" y="136" font-size="12" text-anchor="middle" fill="#111">25 Aug</text>
+  <text x="850" y="136" font-size="12" text-anchor="end" fill="#111">17 Sep</text>
+  <text x="50" y="170" font-size="13" font-weight="bold" fill="#111">Before the camp</text>
+  <text x="50" y="190" font-size="12" fill="#222">Robotic arm repair, firefighting robot,</text>
+  <text x="50" y="208" font-size="12" fill="#222">line follower (first version), lamp,</text>
+  <text x="50" y="226" font-size="12" fill="#222">air-freshener fan, toy baby, water-level monitor</text>
+  <text x="470" y="170" font-size="13" font-weight="bold" fill="#111">During the camp</text>
+  <text x="470" y="190" font-size="12" fill="#222">Students built the line follower</text>
+  <text x="470" y="208" font-size="12" fill="#222">and take-home fan; two Tech &amp;</text>
+  <text x="470" y="226" font-size="12" fill="#222">Career Talks; Tech Expo</text>
+  <text x="700" y="170" font-size="13" font-weight="bold" fill="#111">After the camp</text>
+  <text x="700" y="190" font-size="12" fill="#222">Traffic model, laser alarm,</text>
+  <text x="700" y="208" font-size="12" fill="#222">Bluetooth car, dustbin,</text>
+  <text x="700" y="226" font-size="12" fill="#222">keypad lock, obstacle robot</text>
+  <text x="50" y="262" font-size="11" fill="#444">Attachment and camp dates: university letter and offer letter. Which phase each project belongs to: my recollection.</text>
+</svg>

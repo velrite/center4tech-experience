@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <path d="M0,0 L10,4 L0,8 z" fill="#333"/>
+    </marker>
+  </defs>
+  <rect width="900" height="220" fill="#ffffff"/>
+  <rect x="30" y="50" width="170" height="60" fill="#cfe3f7" stroke="#555"/>
+  <rect x="250" y="50" width="170" height="60" fill="#f7d9a8" stroke="#555"/>
+  <rect x="470" y="50" width="170" height="60" fill="#d6ecd0" stroke="#555"/>
+  <rect x="690" y="50" width="170" height="60" fill="#e6d9f2" stroke="#555"/>
+  <text x="115" y="86" font-size="14" font-weight="bold" text-anchor="middle" fill="#111">Sensor or input</text>
+  <text x="335" y="86" font-size="14" font-weight="bold" text-anchor="middle" fill="#111">Controller</text>
+  <text x="555" y="86" font-size="14" font-weight="bold" text-anchor="middle" fill="#111">Actuator or output</text>
+  <text x="775" y="86" font-size="14" font-weight="bold" text-anchor="middle" fill="#111">Physical result</text>
+  <line x1="200" y1="80" x2="248" y2="80" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="420" y1="80" x2="468" y2="80" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="640" y1="80" x2="688" y2="80" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <text x="115" y="140" font-size="12" text-anchor="middle" fill="#222">Ultrasonic, IR, LDR, keypad</text>
+  <text x="335" y="140" font-size="12" text-anchor="middle" fill="#222">Arduino</text>
+  <text x="555" y="140" font-size="12" text-anchor="middle" fill="#222">Servo, motor, fan, buzzer, LED</text>
+  <text x="775" y="140" font-size="12" text-anchor="middle" fill="#222">Lid opens, robot moves,</text>
+  <text x="775" y="156" font-size="12" text-anchor="middle" fill="#222">alarm sounds</text>
+  <text x="30" y="200" font-size="11" fill="#444">Generic pattern drawn by me. The examples come from the projects in this repository.</text>
+</svg>
