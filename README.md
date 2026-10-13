@@ -6,7 +6,7 @@
 
 In July–August 2023 I was Lead Instructor for Electronics/Robotics Design & Coding at the Ogudu center of the Young Inventors Summer Camp, run by Center4Tech in Lagos. I taught a class of 13 students and supervised their builds, including a line-following robot and a take-home proximity fan. I also led two Tech & Career Talks for about 40 students from all courses.
 
-The camp sat inside a longer industrial attachment (29 May – 17 September 2023). I joined without hands-on building experience. A supervising engineer trained me before the camp, and I then built and repaired prototypes for the program, including a robotic arm that was damaged in transport.
+The camp sat inside a longer industrial attachment (29 May – 17 September 2023). I joined without hands-on building experience. A supervising engineer trained me from 29 May, and I was leading a class from 24 July, eight weeks later. I also built and repaired prototypes for the program before and after the camp, including a robotic arm that was damaged in transport.
 
 ## Role
 
@@ -18,6 +18,10 @@ The camp sat inside a longer industrial attachment (29 May – 17 September 2023
 | Industrial attachment | 29 May – 17 September 2023. DOCUMENTED (university acceptance letter) |
 | Center | Ogudu center, Lagos. RECOLLECTION (the center appears in the 2023 program flyer) |
 | Class | 13 students and one assistant. RECOLLECTION |
+
+## 2023 at a glance
+
+![2023 timeline: training, camp, after the camp](assets/timeline-2023.svg)
 
 ## What I did
 
@@ -82,3 +86,4 @@ This repository contains none of Center4Tech's code, curriculum, manuals, worksh
 - [04 Evidence](04-evidence/)
 - [05 Lessons Learned](05-lessons-learned/)
 - [06 Publication Policy](06-publication-policy/)
+- [Changelog](CHANGELOG.md)

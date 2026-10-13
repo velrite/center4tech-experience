@@ -2,12 +2,7 @@
 
 The pattern in most of these projects: something senses the world, a controller decides, and something acts.
 
-```mermaid
-flowchart LR
-  A[Sensor or input] --> B[Controller]
-  B --> C[Actuator or output]
-  C --> D[Physical result]
-```
+![Sensor, controller, actuator pattern](../assets/sensor-controller-actuator.svg)
 
 | Project | Input | Controller | Output |
 |---|---|---|---|
