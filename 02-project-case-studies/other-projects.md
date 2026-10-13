@@ -26,3 +26,35 @@ All RECOLLECTION. Roles use my own wording. Phase = before / during / after the 
 ## Teaching exercises
 
 Potentiometer-dimmed light, an LM35 temperature sensor read on the serial monitor, an LCD progression (including Bluetooth and App Inventor text), an IR remote controlling LEDs and a fan, and an ultrasonic proximity LED. These followed the Arduino exercise order in my training report. Phases are not recalled.
+
+## Hardware photographs (project not identified)
+
+All photographs below show hardware only. I cannot say which project each belongs to.
+
+![Four-wheel robot chassis in a hand](../04-evidence/photos/hardware/four-wheel-robot-chassis-in-hand-01.jpg)
+
+*A hand holding a four-wheel robot chassis with an Arduino-style board and wiring.*
+
+![Perfboard circuit in a hand](../04-evidence/photos/hardware/perfboard-circuit-handheld-01.jpg)
+
+*A hand holding a soldered perfboard circuit.*
+
+![Chassis prototype with an Arduino-style board](../04-evidence/photos/hardware/arduino-chassis-prototype-01.jpg)
+
+*A wheeled chassis prototype with an Arduino-style board and wiring.*
+
+![Chassis with a motor driver](../04-evidence/photos/hardware/arduino-motor-driver-chassis-01.jpg)
+
+*A chassis with an Arduino-style board and a motor-driver module.*
+
+![White wheeled robot car](../04-evidence/photos/hardware/white-wheeled-robot-car-01.jpg)
+
+*A white-bodied wheeled robot car.*
+
+![White tray prototype](../04-evidence/photos/hardware/white-tray-prototype-01.png)
+
+*A still from a video: hands holding a white tray prototype with coloured markers on it.*
+
+![Small robot on a floor](../04-evidence/photos/hardware/small-robot-on-floor-video-still-01.png)
+
+*A still from a video: a small robot on a floor.*

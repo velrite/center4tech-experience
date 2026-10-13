@@ -22,25 +22,25 @@ All were extracted from my training report, so resolution is low and none has ca
 | ID | Filename | Shows | Status | Upload |
 |---|---|---|---|---|
 | EVID-012 | instructor-with-students-at-table-01.jpg | Instructor and students at a table | Private (students) | Not in repository |
-| EVID-013 | four-wheel-robot-chassis-in-hand-01.jpg | Wheeled robot chassis in a hand | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-014 | perfboard-circuit-handheld-01.jpg | Perfboard circuit in a hand | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-015 | traffic-model-workbench-01.jpg | Traffic model on a workbench | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-016 | traffic-intersection-model-01.jpg | Traffic intersection model | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-017 | traffic-model-barrier-arm-01.jpg | Traffic model barrier arm | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-018 | laser-security-alarm-build-01.jpg | Red light spot on a wooden board with cardboard pieces, taken during the laser alarm build | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-019 | arduino-chassis-prototype-01.jpg | Chassis prototype with an Arduino | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-020 | arduino-motor-driver-chassis-01.jpg | Chassis with an Arduino and a motor driver | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-021 | line-following-robot-track-01.jpg | Floor track with a black line | Held | 04-evidence/photos/hardware/ , awaiting permission |
+| EVID-013 | four-wheel-robot-chassis-in-hand-01.jpg | Wheeled robot chassis in a hand | Published | 04-evidence/photos/hardware/ |
+| EVID-014 | perfboard-circuit-handheld-01.jpg | Perfboard circuit in a hand | Published | 04-evidence/photos/hardware/ |
+| EVID-015 | traffic-model-workbench-01.jpg | Traffic model on a workbench | Published | 04-evidence/photos/hardware/ |
+| EVID-016 | traffic-intersection-model-01.jpg | Traffic intersection model | Published | 04-evidence/photos/hardware/ |
+| EVID-017 | traffic-model-barrier-arm-01.jpg | Traffic model barrier arm | Published | 04-evidence/photos/hardware/ |
+| EVID-018 | laser-security-alarm-build-01.jpg | Red light spot on a wooden board with cardboard pieces, taken during the laser alarm build | Published | 04-evidence/photos/hardware/ |
+| EVID-019 | arduino-chassis-prototype-01.jpg | Chassis prototype with an Arduino | Published | 04-evidence/photos/hardware/ |
+| EVID-020 | arduino-motor-driver-chassis-01.jpg | Chassis with an Arduino and a motor driver | Published | 04-evidence/photos/hardware/ |
+| EVID-021 | line-following-robot-track-01.jpg | Floor track with a black line | Published | 04-evidence/photos/hardware/ |
 | EVID-022 | classroom-session-01.jpg | Classroom session | Private (students) | Not in repository |
 | EVID-023 | tech-career-talk-classroom-01.jpg | Crowded classroom, identified by me as the Tech & Career Talk | Private (students) | Not in repository |
 | EVID-024 | classroom-instruction-01.jpg | Classroom instruction | Private (students) | Not in repository |
 | EVID-025 | student-certificates-group-01.jpg | Group holding certificates | Private (students) | Not in repository |
 | EVID-026 | video-still-track-demonstration-01.png | Video screenshot, unclear | Private | Not in repository |
-| EVID-027 | white-wheeled-robot-car-01.jpg | White wheeled robot car | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-028 | robotic-arm-video-still-cropped-01.png | Robotic arm, video screenshot, cropped to remove the person | Held | 04-evidence/photos/hardware/ , awaiting permission |
+| EVID-027 | white-wheeled-robot-car-01.jpg | White wheeled robot car | Published | 04-evidence/photos/hardware/ |
+| EVID-028 | robotic-arm-video-still-cropped-01.png | Robotic arm, video screenshot, cropped to remove the person | Published | 04-evidence/photos/hardware/ |
 | EVID-028b | robotic-arm-video-still-full-01.png | Same screenshot, uncropped, shows a person | Private | Not in repository |
-| EVID-029 | white-tray-prototype-01.png | White tray prototype, video screenshot | Held | 04-evidence/photos/hardware/ , awaiting permission |
-| EVID-030 | small-robot-on-floor-video-still-01.png | Small robot on a floor, video screenshot | Held | 04-evidence/photos/hardware/ , awaiting permission |
+| EVID-029 | white-tray-prototype-01.png | White tray prototype, video screenshot | Published | 04-evidence/photos/hardware/ |
+| EVID-030 | small-robot-on-floor-video-still-01.png | Small robot on a floor, video screenshot | Published | 04-evidence/photos/hardware/ |
 
 ## Evidence gaps
 

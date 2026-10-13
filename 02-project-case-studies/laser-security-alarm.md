@@ -36,3 +36,9 @@ Whether it worked reliably, the board model, the power supply, and the sensor th
 ## Evidence
 
 One photograph, taken by me while building. It shows a red light spot on a wooden board with cardboard pieces. It does not show the complete system.
+
+## Photographs
+
+![Laser security alarm build](../04-evidence/photos/hardware/laser-security-alarm-build-01.jpg)
+
+*A red light spot on a wooden board with cardboard pieces, photographed by me during the build. It does not show the complete system.*

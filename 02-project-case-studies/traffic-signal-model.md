@@ -33,3 +33,17 @@ flowchart LR
 ## Not recalled
 
 The team size, the timing values, what failed, and the board model.
+
+## Photographs
+
+![Traffic model on a workbench](../04-evidence/photos/hardware/traffic-model-workbench-01.jpg)
+
+*The traffic model on a workbench during the build, with tools nearby that appear to include a multimeter and a soldering iron. It shows the model existed. It does not show who designed it.*
+
+![Traffic intersection model](../04-evidence/photos/hardware/traffic-intersection-model-01.jpg)
+
+*Miniature road with a zebra crossing and wiring, from the traffic signal model.*
+
+![Traffic model barrier arm](../04-evidence/photos/hardware/traffic-model-barrier-arm-01.jpg)
+
+*A raised barrier arm on a wooden base, from the traffic signal model.*

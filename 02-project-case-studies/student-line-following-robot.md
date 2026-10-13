@@ -43,3 +43,9 @@ flowchart LR
 ## Limits
 
 I do not know how each student robot performed. Only one student presented at the Expo.
+
+## Photographs
+
+![Line-following robot track](../04-evidence/photos/hardware/line-following-robot-track-01.jpg)
+
+*Black line track on a floor. In my recollection this is the track for the line-following robot. The photograph does not show who built the robot or how it performed.*

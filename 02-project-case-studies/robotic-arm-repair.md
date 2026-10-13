@@ -57,3 +57,9 @@ flowchart LR
 ## Limits
 
 The original video is lost. Only one screenshot survives. I cannot say how I found the faults or how I tested the repair.
+
+## Photographs
+
+![Robotic arm, video still](../04-evidence/photos/hardware/robotic-arm-video-still-cropped-01.png)
+
+*Still from a video, cropped to remove a person: a white robotic arm with servo motors on a base board. In my recollection this is the arm in this case study. The still does not show the repair.*
