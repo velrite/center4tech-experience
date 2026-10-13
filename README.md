@@ -60,7 +60,7 @@ The camp sat inside a longer industrial attachment (29 May – 17 September 2023
 ## Evidence and verification
 
 - **Documents:** the offer letter and attachment letters exist. They are kept private because they contain personal and financial details.
-- **Photographs:** some exist, but they show minors or company-owned builds. None is published here. They are withheld until Center4Tech gives written permission.
+- **Photographs:** hardware-only photographs are published in [04-evidence/photos/hardware](04-evidence/photos/hardware/) with Center4Tech's written permission. Photographs showing students are not published.
 - **Videos:** the originals were lost. Only two screenshots survive.
 - **Roles that could confirm this work if asked:** HR, the center coordinator, my assistant, and other instructors.
 

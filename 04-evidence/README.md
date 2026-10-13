@@ -1,13 +1,13 @@
 # Evidence
 
-This folder holds the evidence index and the claim-to-evidence matrix. It holds no photographs yet.
+This folder holds the evidence index and the claim-to-evidence matrix. Hardware photographs are in [photos/hardware](photos/hardware/).
 
 - [Evidence index](evidence-index.md): every evidence item, its status, and where it would live.
 - [Claim-to-evidence matrix](claim-to-evidence-matrix.md): each major claim and what supports it.
 
-## Why there are no photographs here
+## Photographs
 
-The photographs show students or company-owned builds. They are withheld until Center4Tech gives written permission. Photographs with identifiable students stay private even then, unless guardian permission is also covered.
+Hardware-only photographs are published here with Center4Tech's written permission. Photographs showing students stay private.
 
 ## Verification
 
