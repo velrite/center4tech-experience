@@ -63,3 +63,7 @@ The original video is lost. Only one screenshot survives. I cannot say how I fou
 ![Robotic arm, video still](../04-evidence/photos/hardware/robotic-arm-video-still-cropped-01.png)
 
 *Still from a video, cropped to remove a person: a white robotic arm with servo motors on a base board. In my recollection this is the arm in this case study. The still does not show the repair.*
+
+## What came after
+
+This repair shaped the direction of my final-year Mechatronics project, [RepeatoArm](https://github.com/velrite/RepeatoArm) (2023-2024). RepeatoArm keeps the potentiometer-and-button control of that arm and adds record-and-replay of poses and a separate proximity alarm. It is documented in its own repository.
